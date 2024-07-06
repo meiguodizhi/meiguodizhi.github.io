@@ -301,7 +301,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(/assets/addons/xcblog/img/clashnodesfree/banner-bg.png);
+    background-image: url(/assets/addons/xcblog/img/meiguodizhi/banner-bg.png);
     height: auto;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -535,7 +535,7 @@ button {
 .about_img {
     width: 100%;
     float: left;
-    background-image: url(/assets/addons/xcblog/img/clashnodesfree/about-img.png);
+    background-image: url(/assets/addons/xcblog/img/meiguodizhi/about-img.png);
     height: auto;
     background-size: cover;
     padding: 0px 0px 0px 0px;
