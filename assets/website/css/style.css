@@ -89,6 +89,7 @@ footer a {color: #aaa;}
 #address-box {border-color: #f1f1f1;}
 #address-box .panel-heading {background: #fff;font-size: 1.1rem;border-color: #f1f1f1;}
 #address-box .refresh {margin-top: 1rem;}
+#address-box h1, #address-box h2 {display: inline-block;}
 #address-box h2 {
     font-size: 1.1rem;
 }
